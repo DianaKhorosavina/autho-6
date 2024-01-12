@@ -1,4 +1,6 @@
+package ru.netolody.page;
 import com.codeborne.selenide.SelenideElement;
+import ru.netolody.data.DataHelper;
 
 import static com.codeborne.selenide.Selenide.$;
 

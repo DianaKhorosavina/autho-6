@@ -1,6 +1,10 @@
+package ru.netolody.test;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.netolody.data.DataHelper;
+import ru.netolody.page.DashboardPage;
+import ru.netolody.page.LoginPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertAll;

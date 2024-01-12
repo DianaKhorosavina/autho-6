@@ -1,5 +1,8 @@
+package ru.netolody.page;
+
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
+import ru.netolody.data.DataHelper;
 
 import java.time.Duration;
 
